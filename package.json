@@ -1,13 +1,13 @@
 {
-  "name": "prettycasino",
-  "main": "pretty casino",
+  "name": "jokerbet",
+  "main": "jokerbet.games",
   "theme": "syntax",
   "version": "1.8.0",
-  "description": "pretty casino สล็อตแตกง่าย ที่มาแรงไม่น้อยหน้าค่ายไหนๆ เว็บไซต์สล็อต รวมทุกค่าย ก็เลยได้เอามาใส่ไว้ให้ผู้เล่น ได้ร่วมบันเทิงใจกันเนื่องด้วย เป็นค่ายที่มีเกมสล็อตให้เลือกสนุกสนานได้อย่างหลากหลาย รวมทั้งยังมีการสร้างสรรค์เกมสล็อตใหม่ๆ",
+  "description": "jokerbetผู้บริการรวมความสนุกที่เปิดโอกาสในการทำกำไรเกมสล็อตมาอย่างยาวนาน หลายท่านอาจจะยังไม่รู้จักว่านี่คือ โอกาสทองในการเข้าถึงรางวัลแจ็คพอตที่ดีเลยทีเดียว",
   "keywords": [
     "pretty casino"
   ],
-  "repository": "https://github.com/warapon3000/prettycasino",
+  "repository": "hhttps://github.com/kingjoker111/jokerbetgames",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
